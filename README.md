@@ -9,7 +9,7 @@ This simple page does the following:
 - Input is locally saved
 
 
-[Deployed GitHub page](link).
+[No deployed page](link).
 
 
 ## Installation
