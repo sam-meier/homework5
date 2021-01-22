@@ -2,9 +2,11 @@
 
 ## Description 
 
--Displays date
--Shows input fields of varying color based on time of day in relation to current time
--Input is locally saved
+This simple page does the following:
+    -Displays today's date
+    -Shows input fields of varying color
+        *Each is colored based on its relation to the current time
+    -Input is locally saved
 
 
 [Deployed GitHub page](link).
