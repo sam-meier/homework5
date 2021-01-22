@@ -3,10 +3,10 @@
 ## Description 
 
 This simple page does the following:
-    -Displays today's date
-    -Shows input fields of varying color
-        *Each is colored based on its relation to the current time
-    -Input is locally saved
+- Displays today's date
+- Shows input fields of varying color
+    * Each is colored based on its relation to the current time
+- Input is locally saved
 
 
 [Deployed GitHub page](link).
@@ -19,10 +19,10 @@ Simply use your browser.
 
 ## Usage 
 
--Select a field
--Input text
--Click the save icon
--Refresh to show data was saved
+- Select a field
+- Input text
+- Click the save icon
+- Refresh to show data was saved
 
 
 ## Credits
